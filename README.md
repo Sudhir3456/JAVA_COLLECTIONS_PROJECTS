@@ -5,9 +5,10 @@ This repository contains a list of all the projects completed during my Java tra
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| Project 1    | A Java-based application to manage, filter, and sort shirts by brand, price, size, and color, demonstrating expertise in collections and data management.|Java (Core), Collections , Eclips IDE|
-| Project 2    | Tested a mobile application for compatibility across different devices. | Appium, TestLink |
-| Project 3    | Tested a desktop application for security vulnerabilities. | Burp Suite, Nessus, ZAP |
+| Shirt_project  | A Java-based application to manage, filter, and sort shirts by brand, price, size, and color, demonstrating expertise in collections and data management.|Java (Core), Collections , Eclips IDE|
+| employ_project    | A Java-based Employee Management System that utilizes collections and custom comparators to efficiently manage, sort, and search employee records by attributes like ID, name, and salary. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
+| shape_project1  | An interactive Java-based game designed to help students learn and explore 2D and 3D shapes through engaging visualizations and mathematical calculations. |Java (Core) , Collections, Eclips IDE, JDK Git & GitHub for version control |
+
 
 # 🚀 Getting Started
 To view the details of each project, simply click on the project name in the table above. The project page will contain a brief description of the project as well as a list of tools used to complete the project.
@@ -16,8 +17,8 @@ If you have any feedback or suggestions for improvements, please feel free to op
 # 📋 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 You can copy and paste this code into a Markdown file and modify the text as needed.
-# Project 1
-##👕 Shirt Management System
+# Project : 👕Shirt_project
+## 👕 Shirt Management System
 Welcome to the Shirt Management System, a Java-based application that allows you to manage a collection of shirts efficiently. The system supports various operations like accessing shirts by brand, price, size, and color, as well as sorting and counting shirts based on different criteria.
 ## 📂 Project Structure
  ```plaintext
@@ -66,25 +67,8 @@ JAVA_COLLECTIONS_PROJECTS
 3. Compile and run the Driver.java class to start the system.
 # 📝 Usage:
 - After running Driver.java, you will be able to execute various operations like viewing shirts, filtering by brand, price, size, or color, sorting shirts, and counting shirts by specific criteria.
-
-### Project 2
-- Test Plan
-- Test Cases
-- Bug Report
-- RTM
-- Test Reports
-- Test Metrics
-
-### Project 3
-- Test Plan
-- Test Cases
-- Bug Report
-- RTM
-- Test Reports
-- Test Metrics
-- 
-# Project 4
-
+ 
+# Project: 🎮 shape_project1
 
 ## 🎮 Educational Shape Learning Game
 Welcome to the *Educational Shape Learning Game*, an interactive Java-based application designed to enhance the understanding of 2D and 3D shapes for students in classes 4 to 8. The game offers a fun and engaging way for students to explore and interact with various shapes while learning key mathematical concepts.
